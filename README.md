@@ -6,7 +6,7 @@ This is a wargame simulator and army optimiser, developped in Python.
 
 # Installation:
 
-Clone the repository: `git pull https://github.com/ClearwaterTM/wargamesim`
+Clone the repository: `git pull https://github.com/ClearwaterTM/wargamesim` \
 Install required libraries: `pip install pygame numpy matplotlib`
 
 # Usage:
